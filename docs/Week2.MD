@@ -18,4 +18,4 @@
 
 
 ## Postmeeting
-- Claude Opus 4.5 is focused on agentic use case. They use Tool search Tool.  How does my approach compare to Claude Opus 4.5 on benchmarks
+- Claude Opus 4.5 is focused on agentic use case. They use Tool search Tool.  How does my approach compare to Claude Opus 4.5 on benchmarks ?

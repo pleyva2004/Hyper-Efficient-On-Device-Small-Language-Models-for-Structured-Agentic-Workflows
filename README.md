@@ -1,5 +1,5 @@
 # Small Language Reasoning Models
-R&amp;D Repositories for my Research Paper
+Repositories for my Research Paper
 
 ## Research Paper
 
